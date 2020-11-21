@@ -8,4 +8,4 @@ class Config(object):
     COMMAND_HAND_LER = os.environ.get("COMMAND_HAND_LER", "^/")
     DUMB_CHAT = int(os.environ.get("DUMB_CHAT", False))
     CUSTOM_START = os.environ.get("CUSTOM_START", None)
-    CUSTOM_IMG = os.environ.get("CUSTOM_IMG", "https://static.botsrv.com/website/img/quriobot_favicon.1727b193.png")
+    CUSTOM_IMG = os.environ.get("CUSTOM_IMG", "https://telegra.ph/file/4d27a094817880dc492a4.png")
